@@ -158,9 +158,8 @@ My goal is to build an unshakeable foundation in computer architecture and syste
 
 ## ⚡ Current Focus & Activity
 
-- **Current Goal:** Finishing Level 1 (Units 12–16: Safe String Parsing, Database Simulation, Applied C Security, Build Systems).
-- **Active Progress:** Unit 11 Completed (Algorithms & Raw Memory Reading) — Currently starting Unit 12.
-- **Ask Me About:** C Pointers, Dynamic Memory Allocation, Pointer Arithmetic, and Modular Architecture.
+- **Current Goal:** Finishing Level 1 (Units 12–16: Safe String Parsing, Database Simulation, Applied C Security, Build Systems)
+
 
 ---
 
