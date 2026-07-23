@@ -171,3 +171,20 @@ My goal is to build an unshakeable foundation in computer architecture and syste
 - **Key Features:** Dynamic memory handling, header file separation (`.h`/`.c`), Binary Search, Bubble Sort.
 
 ---
+<br> 
+## 📫 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JKkGudMCo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al_maghrabi__?igsh=YnFlbmxxGNsNHpk)
+<br> 
+
+---
+
+<br> 
+---
+
+## ⚡ Current Focus & Activity
+
+- 🎯 **Current Objective:** Studying Level 2 (Mathematical Foundations & Algorithmic Logic).
+- 🔨 **Active Project:** Enhancing the C Student Management System (CRP).
+- 💬 **Ask Me About:** C Pointers, Dynamic Memory Allocation, and Modular Architecture.
