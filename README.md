@@ -127,6 +127,22 @@
 
 <br>
 
+##  Professional Vision & Aspirations
+
+> **Aspiring Systems Security Researcher & Low-Level Engineer** 🛡️
+
+My goal is to build an unshakeable foundation in computer architecture and systems programming. By working through this 8-level roadmap, I am shaping my profile toward:
+
+* 🔍 **Vulnerability Research & Binary Analysis:** Understanding memory corruption, binary formats (ELF/PE), and hardware/OS mitigations.
+* 🛠️ **Reverse Engineering & Systems Programming:** Analyzing compiled binaries, compiler internals, and low-level software design.
+* 🐧 **Kernel Security & OS Internals:** Deep-diving into operating system memory management, system calls, and Ring 0 execution dynamics.
+
+
+
+
+<br> 
+
+
 ##  Tech Stack Status
 
 <br>
