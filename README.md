@@ -156,6 +156,17 @@ My goal is to build an unshakeable foundation in computer architecture and syste
 
 ---
 
+### 🏦 [C Bank Management System](https://github.com/wesso-dev/bank-system)
+
+> A CLI application built in C demonstrating data structures (Queue & Stack), persistent file storage, and memory management with automatic cleanup to prevent memory leaks.
+
+* **Tech Stack:** C, GCC, Termux / Linux
+* **Key Features:** Queue (FIFO) for customer line, Stack (LIFO) for Undo operations, Node Pointer Reuse, File Persistence, Automatic Memory Cleanup.
+
+---
+
+
+
 ## ⚡ Current Focus & Activity
 
 - **Current Goal:** Finishing Level 1 (Units 12–16: Safe String Parsing, Database Simulation, Applied C Security, Build Systems)
