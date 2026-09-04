@@ -6,6 +6,45 @@
 
 ---
 
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>C Student Management System</h3>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-000000?style=flat&logo=gnu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+A CLI application built in C demonstrating modular code organization, dynamic memory allocation, sorting algorithms, and search routines.
+
+Key Features: Dynamic memory handling, header file separation, Binary Search, Bubble Sort.
+
+[View Repository](https://github.com/wesso-dev/c-student-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>C Bank Management System</h3>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-000000?style=flat&logo=gnu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+A CLI application built in C demonstrating data structures Queue and Stack, persistent file storage, and memory management with automatic cleanup to prevent memory leaks.
+
+Key Features: Queue FIFO for customer line, Stack LIFO for Undo operations, Node Pointer Reuse, File Persistence, Automatic Memory Cleanup.
+
+[View Repository](https://github.com/wesso-dev/bank-system)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 Professional Vision & Aspirations
 
 > **Aspiring Systems Security Researcher & Low-Level Engineer**
@@ -146,26 +185,6 @@ My goal is to build an unshakeable foundation in computer architecture and syste
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | Operating System & Terminal Environment |
 
 ---
-
-## 📂 Projects
-
-### [C Student Management System (CRP)](https://github.com/wesso-dev/c-student-management-system)
-> A CLI application built in C demonstrating modular code organization, dynamic memory allocation (`malloc`/`realloc`), sorting algorithms, and search routines.
-- **Tech Stack:** C, GCC, Termux / Linux
-- **Key Features:** Dynamic memory handling, header file separation (`.h`/`.c`), Binary Search, Bubble Sort.
-
----
-
-### 🏦 [C Bank Management System](https://github.com/wesso-dev/bank-system)
-
-> A CLI application built in C demonstrating data structures (Queue & Stack), persistent file storage, and memory management with automatic cleanup to prevent memory leaks.
-
-* **Tech Stack:** C, GCC, Termux / Linux
-* **Key Features:** Queue (FIFO) for customer line, Stack (LIFO) for Undo operations, Node Pointer Reuse, File Persistence, Automatic Memory Cleanup.
-
----
-
-
 
 ## ⚡ Current Focus & Activity
 
