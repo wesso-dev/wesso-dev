@@ -39,7 +39,7 @@ CLI system in C using Queue and Stack for customer operations, with persistent f
 
 Simulation system using Redis for caching with persistent storage on disk.
 
-[View Repository](Repository link needed)
+[View Repository](https://github.com/wesso-dev/game_1v1)
 
 ---
 
