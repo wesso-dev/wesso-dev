@@ -8,40 +8,38 @@
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Student Management System
 
-<h3>C Student Management System</h3>
-
+![Student System](https://img.shields.io/badge/Student_Management-4C51BF?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-000000?style=flat&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-A CLI application built in C demonstrating modular code organization, dynamic memory allocation, sorting algorithms, and search routines.
-
-Key Features: Dynamic memory handling, header file separation, Binary Search, Bubble Sort.
+CLI system in C using a dynamic array of structs to manage student records, with sorting and search algorithms.
 
 [View Repository](https://github.com/wesso-dev/c-student-management-system)
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3>C Bank Management System</h3>
+### Bank Management System
 
+![Banking System](https://img.shields.io/badge/Banking_System-1E7145?style=for-the-badge&logo=cashapp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-000000?style=flat&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-A CLI application built in C demonstrating data structures Queue and Stack, persistent file storage, and memory management with automatic cleanup to prevent memory leaks.
-
-Key Features: Queue FIFO for customer line, Stack LIFO for Undo operations, Node Pointer Reuse, File Persistence, Automatic Memory Cleanup.
+CLI system in C using Queue and Stack for customer operations, with persistent file storage and automatic memory cleanup.
 
 [View Repository](https://github.com/wesso-dev/bank-system)
 
-</td>
-</tr>
-</table>
+---
+
+### Monster Game Simulation
+
+![Redis](https://img.shields.io/badge/Game_Simulation-A41E11?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+Simulation system using Redis for caching with persistent storage on disk.
+
+[View Repository](Repository link needed)
 
 ---
 
