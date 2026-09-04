@@ -77,7 +77,7 @@ My goal is to build an unshakeable foundation in computer architecture and syste
 #### 🔹 Applied Engineering & Security Concepts (In Progress / Starting Unit 12)
 - **1.12 Applied Problem Solving:** Safe String Parsing (Tokenization without unsafe stdlib), Double Pointers (`ptr**`).
 - **1.13 Database Simulation:** Relational Data Concepts, Struct Arrays as Database Tables, Data Integrity & Validation.
-- **1.14 Applied C Security:** Input Validation, Buffer Overflow Mechanics (Stack Corruption & Return Address Overwrite), Format String Vulnerabilities, Dynamic Memory Flaws (Leaks, Use-After-Free).
+- **1.14 Hash Tables:** Merging the speed of Dynamic Arrays with the flexibility of Linked Lists into a single Hash Table structure. Struct Design (Entry & Table structs), Initialization Functions, Load Factor Resizing (`count * 3 >= capacity * 4`), Safe String Copying (custom safe copy replacing `strcpy`), Insert Operation, Constant-Time Search, and Search-Dependent Operations (Update, Print, Delete).
 - **1.15 Architectural Expansions:** Function Pointers (Callbacks), `Unions` (Type Confusion Concepts), `Enums`, Bit-fields (Network Packet Layout), Pointer-based Stacks & Queues.
 - **1.16 Large Project Engineering:** Preprocessor Directives & Macros (`#define`), Multi-file Architecture (`.h`/`.c`), Include Guards (`#ifndef`), Storage Classes (`static`/`extern` for Internal Encapsulation), Build Automation (`Makefiles`).
 </details>
