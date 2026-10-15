@@ -45,5 +45,5 @@ I am currently building a rigorous foundation in computer science and systems en
 
 ### 📫 Reach Out
 
-* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile](#)
+* **Email:** [essahagag2004@gmail.com](mailto:your-email@gmail.com)
+
